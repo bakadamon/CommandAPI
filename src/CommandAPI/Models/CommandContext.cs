@@ -13,3 +13,6 @@ namespace CommandAPI.Models
     }
 
 }
+// git add .
+// git commit -m “{title}”
+// git push origin master
